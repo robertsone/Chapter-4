@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Chapter-4\Sum50\bin\Debug\Sum50.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-4\Sum50\bin\Debug\Sum50.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-4\Sum50\obj\x86\Debug\Sum50.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-4\Sum50\obj\x86\Debug\Sum50.pdb

@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Chapter-4\Perfect\bin\Debug\Perfect.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-4\Perfect\bin\Debug\Perfect.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-4\Perfect\obj\x86\Debug\Perfect.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-4\Perfect\obj\x86\Debug\Perfect.pdb
